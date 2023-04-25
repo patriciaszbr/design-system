@@ -1,0 +1,4 @@
+{
+  "extends": "@tricia-ui/ts-config/react.json",
+  "include": ["src"]
+}
